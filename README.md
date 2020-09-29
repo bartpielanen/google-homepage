@@ -4,3 +4,5 @@ This is my first project and i am going to clone the Google Homepage.
 
 Deleted all progress, difficulty with rebuilding. Re-learning html and css via learntocodeathome.
 Progressing and building along the way.
+
+1
